@@ -1,0 +1,1 @@
+Build some DL models to predict the class of some pictures from a folder using Tensorflow 2.0 with F1-score metrics. There are 6 classes: building, forest, glacier, mountain, sea, street. Some techniques used: data augmentation, Simple CNN, BatchNormalization, ReduceLROnPlateau Callback, EarlyStopping Callback, transfer learning.
